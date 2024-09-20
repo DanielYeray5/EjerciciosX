@@ -4,7 +4,7 @@ int main()
 {
     int numero;
 
-    printf("\n   Introduzca un n%cmero entero (1-10): ");
+    printf("\n   Introduzca un numero entero (1-10): ");
     scanf("%d", &numero);
 
     if (numero >= 1 && numero <= 10)
