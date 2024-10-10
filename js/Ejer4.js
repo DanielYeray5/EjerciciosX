@@ -5,4 +5,4 @@ const suma = () =>{
     const suma = numero + numero2
     
     return alert(suma)
-} 
+}
